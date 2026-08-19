@@ -1,16 +1,16 @@
 # notes
 
-Dead hypotheses from an autonomous quant research loop — the numbers that killed
-them, and the rule each one produced.
+Write-ups from an autonomous quant research loop — what was claimed, the
+numbers, and the rule each one produced.
 
-The loop that produced these runs unattended: hypotheses are pre-registered,
-screened, put through a statistical gate, argued against by an independent
-reviewer, and given one dated verdict that is appended to a log nothing is
-removed from. Most entries die. These write-ups are a sample of the ones that
-did, chosen because the lesson transfers past the market they were run in.
+The loop runs unattended: hypotheses are pre-registered, screened, put through a
+statistical gate, argued against by an independent reviewer, and given one
+verdict that is appended to a log nothing is removed from. Most entries do not
+survive it.
 
-Nothing here describes a strategy that is being traded. A dead hypothesis costs
-nothing to publish, which is exactly why it is the part worth publishing.
+Nothing here describes a strategy that is being traded, which is why these can be
+shown whole. They are a sample, chosen because the lesson transfers past the
+market they were run in.
 
 ## Write-ups
 
